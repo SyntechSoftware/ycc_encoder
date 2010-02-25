@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCC_encoder", "YCC_encoder.csproj", "{8D0B0AA6-975E-46B5-A8D3-44376889F95F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCC_decoder", "YCC_decoder.csproj", "{E1045652-900D-4514-A08E-76B26E4E5EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCC_GUI", "YCC_GUI.csproj", "{6E059E7D-418C-4A08-8A42-75AEE36111DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0B0AA6-975E-46B5-A8D3-44376889F95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0B0AA6-975E-46B5-A8D3-44376889F95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0B0AA6-975E-46B5-A8D3-44376889F95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0B0AA6-975E-46B5-A8D3-44376889F95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1045652-900D-4514-A08E-76B26E4E5EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1045652-900D-4514-A08E-76B26E4E5EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1045652-900D-4514-A08E-76B26E4E5EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1045652-900D-4514-A08E-76B26E4E5EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E059E7D-418C-4A08-8A42-75AEE36111DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E059E7D-418C-4A08-8A42-75AEE36111DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E059E7D-418C-4A08-8A42-75AEE36111DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E059E7D-418C-4A08-8A42-75AEE36111DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
